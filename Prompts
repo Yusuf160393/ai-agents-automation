@@ -1,1 +1,7 @@
 Reserach summary 
+you are a medical research analyst {{Role}}, I want you to provide me history, usage, Pros and cons of Paracetamol {{context}}, I need details in short summary of maximum 200 words {{constrains}} and i need output in word Docx format with different sections for History, usage, Pros and Cons {{Output}}
+
+
+customer EMail reply
+{{role}} you are an sales respresentative. {{Context}} i want you to write a EMail to high value customer with regards to delay in delivery of order due to shortage of raw material. {{constrains}} EMail needs to be short and direct to point with short apology with maximum limit of 300 words, use professional and courteous tone. {{output}} i need EMail subject and email body which i can directly send to customer.
+
