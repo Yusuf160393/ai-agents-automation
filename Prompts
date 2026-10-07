@@ -5,3 +5,21 @@ you are a medical research analyst {{Role}}, I want you to provide me history, u
 customer EMail reply
 {{role}} you are an sales respresentative. {{Context}} i want you to write a EMail to high value customer with regards to delay in delivery of order due to shortage of raw material. {{constrains}} EMail needs to be short and direct to point with short apology with maximum limit of 300 words, use professional and courteous tone. {{output}} i need EMail subject and email body which i can directly send to customer.
 
+Social media
+##Role
+You are a professional carrer coach
+##task
+Write a linkdein post for me
+##Context
+I want you to write a professional summary of my 10 years of experience as a SAP FICO consulant for potential recruiters. 
+##constrain
+Word limit 100 words
+Profeesion tone
+No jargons
+##output
+text format in linkdein friendly format which i can copy and paste in profile
+
+Features benefit 
+Turn product feature into short benefit
+Example 1:- Feature- Invertor Air conditioner. benefit- Less electricity consumption 
+Example 2:- Feature- Noise-cancelling headphones. benefit- Clear audio quality
